@@ -8,7 +8,7 @@ body{
 }
 #coupon{
     margin-top: 2px;
-    margin-bottom: 2px;
+    margin-bottom:2px;
     margin-left:auto;
     margin-right:auto;
     height:300px;
@@ -128,13 +128,13 @@ header {
 .slider {
     height: 400px;
     width: 98%;
-  }
+ }
 
 .shopping {
     cursor: pointer;
     margin-left:0%;
     margin-top:0%;
-  }
+ }
 /*footer*/
 footer {
     height: 60px;
